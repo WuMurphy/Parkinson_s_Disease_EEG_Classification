@@ -1,0 +1,6 @@
+2022-11-09 17:33:26,585 loadEdf.py[line:92] INFO Reading E:/中风研究/v2.0.0/edf/train...
+2022-11-09 17:33:26,585 loadEdf.py[line:94] INFO .. 0 files.
+2022-11-09 17:33:26,585 loadEdf.py[line:97] INFO 0 files in total.
+2022-11-09 17:33:26,600 loadEdf.py[line:92] INFO Reading E:/中风研究/v2.0.0/edf/eval...
+2022-11-09 17:33:26,600 loadEdf.py[line:94] INFO .. 0 files.
+2022-11-09 17:33:26,600 loadEdf.py[line:97] INFO 0 files in total.

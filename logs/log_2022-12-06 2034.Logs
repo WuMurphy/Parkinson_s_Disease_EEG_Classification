@@ -1,0 +1,8 @@
+2022-12-06 20:34:22,275 loadEdf.py[line:92] INFO Reading C:/Users/haoyu.wu18/Desktop/EEG demo/EEG demo/v2.0.0/edf/train...
+2022-12-06 20:34:23,057 loadEdf.py[line:94] INFO .. 2717 files.
+2022-12-06 20:34:23,057 loadEdf.py[line:97] INFO 2717 files in total.
+2022-12-06 20:34:23,057 statistical_feature_generate_wpd.py[line:193] WARNING Load 1 of 2717
+2022-12-06 20:34:48,630 loadEdf.py[line:92] INFO Reading C:/Users/haoyu.wu18/Desktop/EEG demo/EEG demo/v2.0.0/edf/train...
+2022-12-06 20:34:49,411 loadEdf.py[line:94] INFO .. 2717 files.
+2022-12-06 20:34:49,411 loadEdf.py[line:97] INFO 2717 files in total.
+2022-12-06 20:34:59,585 statistical_feature_generate_wpd.py[line:193] WARNING Load 1 of 2717

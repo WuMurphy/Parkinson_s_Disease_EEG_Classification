@@ -1,0 +1,4 @@
+2022-12-08 14:14:34,811 loadEdf.py[line:92] INFO Reading C:/Users/haoyu.wu18/Desktop/EEG demo/EEG demo/v2.0.0/edf/train...
+2022-12-08 14:14:35,617 loadEdf.py[line:94] INFO .. 2717 files.
+2022-12-08 14:14:35,617 loadEdf.py[line:97] INFO 2717 files in total.
+2022-12-08 14:14:43,386 statistical_feature_generate_wpd.py[line:193] WARNING Load 1 of 2717
